@@ -17,9 +17,9 @@
 | https://example-company.com       | https://example-company.com/contact |
 | https://company2.co.jp            |                                  |
 | ...                               | ...                              |
-※ 見つからなかった場合は空欄になります。
-
 ---
+
+※ 見つからなかった場合は空欄になります。
 
 ## 🔧 必要条件
 
