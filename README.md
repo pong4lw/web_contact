@@ -56,6 +56,7 @@ var companyList = []string{
 }
 ```
 
+記入後に下記コマンド実行で問合せフォームのURLを取得します
 ```bash
 go run main.go
 ```
